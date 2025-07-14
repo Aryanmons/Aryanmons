@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Deep Learning Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+about+AI+%26+Web+Development;Always+learning+new+things;Let%27s+build+something+awesome+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Passionate+about+AI+%26+Web+Development;Always+learning+new+things;Let%27s+build+something+awesome+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
