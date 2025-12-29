@@ -38,11 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanmons&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanmons&theme=tokyonight" width="45%" />
-</p>
+
 
 ---
 
